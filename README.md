@@ -13,4 +13,4 @@ Examples:
     //Output: "http://dummyimage.com/280X400/6e8c99/d51117.png&text=rear blew"
 
 
-![alt tag](http://dummyimage.com/280X400/6e8c99/d51117.png&text=rear blew)
+![alt text](http://dummyimage.com/280X400/6e8c99/d51117.png&text=rear%20blew)
