@@ -1,6 +1,6 @@
 {
   "name": "random-image-creator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Creates awesome images randomly",
   "main": "random-image-creator.js",
   "dependencies": {
@@ -20,5 +20,9 @@
     "random image",
     "create random image",
     "generate random image"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/omkarpb/create-random-image.git"
+  }
 }
