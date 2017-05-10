@@ -1,6 +1,6 @@
 {
   "name": "random-image-creator",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Creates awesome images randomly",
   "main": "random-image-creator.js",
   "dependencies": {
