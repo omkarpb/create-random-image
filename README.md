@@ -10,7 +10,7 @@ Examples:
 
     console.log(ImageGenerator(280,400));
     
-    //Output: "http://dummyimage.com/280X400/6e8c99/d51117.png&text=rear blew"
+    //Output: "http://placehold.it/280x400/d56f26/0df0f1?txtsize=50&text=grow"
 
 
-![alt text](http://dummyimage.com/280X400/6e8c99/d51117.png&text=rear%20blew)
+![alt text](http://placehold.it/280x400/d56f26/0df0f1?txtsize=50&text=grow)
